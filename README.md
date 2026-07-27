@@ -16,7 +16,7 @@
   |   /  \/  \
   |  (o   )o  )          Experience:
  /c   \__/ --.           - AI Intern @ MirAI School of Technology (8-Week Internship)
- \_   ,     -'           - Web Developer Intern @ InAmigos Foundation
+ \_   ,     -'           - Web Developer Intern @ InAmigos Foundation (2-Week Internship)
   |  '\_______)
   |      _)
   |     |
@@ -61,16 +61,10 @@
 
 ---
 
-###  GitHub Trophies
-
-![BHAVNEESH12 Trophies](https://github-profile-trophy.vercel.app/?username=BHAVNEESH12&theme=darkhub&no-frame=true&column=4)
-
----
-
 ###  Dynamic GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=BHAVNEESH12&show_icons=true&theme=dark" alt="BHAVNEESH12 GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAVNEESH12&theme=dark" alt="BHAVNEESH12 Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BHAVNEESH12&layout=compact&theme=dark" alt="Top Languages" />
 </p>
