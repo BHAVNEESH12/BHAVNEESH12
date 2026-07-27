@@ -37,8 +37,8 @@
 *  **Education:** Pursuing B.Tech in CSE (Specialization in AI/ML) @ **Shri Vishwakarma Skill University**
 *  **Focus:** Real-World Problem Solving & AI Engineering
 *  **Experience:**
-  *  **AI Intern** @ MirAI School of Technology (8-Week Internship)
-  *  **Web Developer Intern** @ InAmigos Foundation
+ *   **AI Intern** @ MirAI School of Technology (8-Week Internship)
+ *   **Web Developer Intern** @ InAmigos Foundation
 *  **Passion:** Open-Source Contribution, Machine Learning & Software Development
 
 ---
