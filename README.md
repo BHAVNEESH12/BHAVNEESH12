@@ -22,4 +22,4 @@
 ```
 
 ### ⚡ Dynamic GitHub Stats
-![BHAVNEESH12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHAVNEESH12&show_icons=true&theme=dark)
+![BHAVNEESH12 GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BHAVNEESH12&show_icons=true&theme=dark)
