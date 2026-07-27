@@ -1,5 +1,5 @@
 ```text
-  |\/\/\/\/\/|           BHAVNEESH12@MirAI
+  |\/\/\/\/\/|           BHAVNEESH12
   |          |           -----------------------------------------------------------------------
   |          |           Name: ...... Bhavneesh
   |          |           Education: . B.Tech CSE (Spec. in AI/ML) @ Shri Vishwakarma Skill Univ.
@@ -22,4 +22,4 @@
 ```
 
 ### ⚡ Dynamic GitHub Stats
-![BHAVNEESH12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHAVNEESH12&show_icons=true&theme=dark&hide_border=true)
+![BHAVNEESH12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHAVNEESH12&show_icons=true&theme=dark)
